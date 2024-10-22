@@ -1,0 +1,11 @@
+{
+    "name": "virtual-healthcare-portal",
+    "version": "1.0.0",
+    "description": "A simple virtual healthcare portal",
+    "scripts": {
+      "start": "vite"
+    },
+    "devDependencies": {
+      "vite": "^4.3.9"
+    }
+  }
